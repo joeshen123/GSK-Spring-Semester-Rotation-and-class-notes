@@ -1,1 +1,46 @@
-Lectrue 3
+Lec 4 Gastrulation of mamallian
+
+Fgf4 partial expression may prestage the fate of Epiblast cell before the other expression markers
+
+Grb2 downstream of Fgf4. Fgf4 mutant epiblast cells can not transition to later stage.
+
+Oct4 and Nanog Pluripotency TFs Nanog goes down when cell goes into later (prime) stage
+
+NANOG and GATA6 mutual inhibit each other
+
+EPI: FGF4 NANOG
+
+PrE: FGF4 GATA6 (More receptor, more signaling, less negative feedback loop, GATA6 is activated)
+
+In future: combine ESC,TSC and Xen cells to reconstitute embryo formation
+
+FGF Inhibitor prevent PrE, promote EPI. generate a lot of naive ES cells
+
+TS Cell: need FGF4 (promote proliferation) + TGF beta
+
+MEF-CM makes TGF beta. Feeder medium (MEF)
+
+XEN Cells: primitive endorderm.
+
+single factor can convert ES cell to TSC and XEN cell
+
+activin and Fgf4 will differentiate ESC to EpilCs.
+
+ESC can not differenbtiate to germcell without going through EpiLCs
+
+NANOG high in FGF4 mutant (bag of ES cells)
+
+---------------------------------------------------------------------------------------------------------
+GASTRULATION
+
+Important the survival of organism.
+
+Formation of AP axis is important for the process of gastrulation. So it happens between Implantation and Gastrulation
+
+T-box TF : a marker of primitive streak(posteria) Hesx1 anterior
+
+Distal is later converted to anterior
+
+Nodal and Wnt inhibitors express in anterior
+
+nodal, wnt and BMP4 are important for primitive streak formation.
