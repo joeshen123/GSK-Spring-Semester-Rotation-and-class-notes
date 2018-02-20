@@ -44,3 +44,163 @@ Distal is later converted to anterior
 Nodal and Wnt inhibitors express in anterior
 
 nodal, wnt and BMP4 are important for primitive streak formation.
+
+---------------------------------------------------------------------------
+Gastrulation (continued)
+
+Brachyury marker of primitive streak
+
+Wnt 3 important for streak formation.  KO BMP4 not gastrulate
+
+loss of function is the essence test.
+
+fgf recptor single no phenotype double gives phenotype
+
+Brachyury mutaant does not affect gastrulation.
+
+beauty of single cell transcriptomic is to look for unknown genes important for gastrulation.
+
+unbiased and give gene information never known before.
+
+Two kinds of Epigenetics: Imprinting and X-Inactivation
+
+Dosage compensation (X-Inactivation)
+
+Tsix express on X that escapes inactivation(repress Xist)
+
+------------------------------------------------------------------------------------------------------------------
+
+Lecture on TGF Beta
+
+TGF Beta tumor suppressor or pro-metastatic?
+
+What is the pathway that can be interpreted so many ways?
+
+Hypothesis: TGF Beta binds to Type II, then recruits type I. Therefore the Hybrid has labeled Type I receptor in the blot.
+
+Biochemical studies find out Type II phosphorylates Type I, type I then phosphoryltes downstream factors
+
+ligand is cleaved and wrapped by ECM ---------- Latent ligand
+
+ligand is released from latent, bind to receptor transphosphorylate , smad activate, into nucleus.
+
+CDK8/9 phosphorylation (recruit transcriptional cofactor YAP) prime for third (GSK3) phosphorylation, later for degradation.
+
+tgf BETA AND bmP recurit different smad binding partners, activate different transcriptional program
+
+partner transcriptional factor is context dependant (In addition, the epigenetic nature of target genes)
+
+Tgf Beta important for immune cell differentiation, Tgf Beta plays a role in inhibiting immune function.
+
+Role of TGF Beta in Cancer
+
+Duality: 1. Early on TGF Beta is tumor suppressive
+2. Later on TGF-BETA is pro metastic
+
+TGF Beta stop CDK2 (Cell Cycle arrest)
+
+loss TGF Beta is not initiator, is enabler (RAS tumor)
+
+Add TGF Beta to KP Mouse organoid, apoptosis and EMT. (With Smad4)
+
+Tumor progression of TGF-BETA
+
+TGF Beta cause cancer cells to go to quiescence, to evade immune cell attack.
+
+metastasis is the confrontation of regenerative cancer stem cell and immune system (innate immune system)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Review Session
+
+Mosaic: fate is determined. cell is determined to be this fate
+
+Regulative: cell is determined by the context.
+
+mosaic vs regulative: whether they require input to develop.
+
+Instructive: concentration of this signal directs the development of this cell type. (direct instruction)
+Permissive: environment directs the fate. (not by a direct exogenous source)
+
+Take ES Cells from Epiblast Embronic Stem cells. ---- Manipulate (e.g. Crisper/Cas9) ---- Insert into early blastocyst ----Make Chimera
+
+nanog Gata6 first express then seperate into Epiblast and PrE
+
+direct ES cells to other fates
+
+all rossetes revolving together to cause embryo movement
+
+-------------------------------------------------------------------------------
+HH Signaling
+
+SHH regulates axon guidance in GLI independent manner
+
+GLI3 mainly repressor / GLI2 mainly activator
+
+The Organizer activity of notochord is from SHH
+
+border can ensure gradiant of SHH, generating different cell types.
+
+Gli2 ventral (activate), Gli3 (repressor) dorsal. Therefore generating different neuron tissue.
+
+loss of Gli2 leads to loss of ventral cell types
+
+mostly GLI3 Repressor and GLI2 Activator are only required for proper cell types in the spinal cord.
+
+GLI2 and GLI3 requirements are different in different tissues(limb structure vs spinal cord)
+
+------------------------------------------------------------------------------------------------
+
+Notch Signaling
+
+Most mutants are found in sex link, because there is only one copy. The phenotype is more noticeable.
+
+Notch loss one copy, has wing defects phenotypes ------ Happloinsufficiency (low is genomes)
+
+neurogenic mutants -- too much nervous system.  too many neural cells. ----- Notch is one of the mutant, notch tells cell not to be neural cell.
+
+Core Notch signaling pathway components:
+
+DL/+ Wing thickning of veins
+
+N/+ and Dl/+ double fix each other ------It will only makes sense they are receptor/ligand pair
+
+N -/- always neural, cell autonomous (RECEPTOR)   DI -/- Some cells Notch function, non autonomous (Ligand)
+
+Notch signal cut the receptor
+
+--------------------------------------------------------------------------------------------------------------
+Kathryn Paper Preview
+
+Wnt signaling overview: 1. Wnt proteins are lipid-modified by Porcupine(Prc).
+
+2. Most tissues Wnt signaling occurs in contacting cells.
+
+3. Wnt receptors : two protein-complex (FZD and LRP5/6), wnt binding leads to receptor dimerization
+
+4. Rnf43 and Znrf3: Negative-feedback regulator of wnt signaling. E3 ligases. Involve in multi-ubiquitination of
+7TM FZD. Later for destruction.
+
+5. R-Spondin binds and inhibit E3 ligase, amplifying the Wnt signaling.
+
+6. Without ligand binding, beta-cat is degraded by complex of multi-proteins (APC, axin); Ligand binding stabilizes
+beta cat, entering nucleus to activate gene expression.
+
+
+Figure 4 Details:
+
+Hypothesis : To explore the kinetics of Wnt3 Surface expression
+
+4a: Use IWP-2 to block Wnt secretion (inhibit Porcupine) WGA+ Cell = Paneth Cell, HA = Wnt expression, After inhib ition, Wnt3 expression can only be observed in Paneth cell. Porcupine is required for the wnt trafficking. Staining Non- permeablized tissue further confirms cell surface Wnt3 is gone, half-life < 24 hrs.
+
+Second Hypiothesis: Whether cell division will affect surface bound Wnt.
+
+4a(continued): Use inhibitors to induce cell cycle arrest.  Axin2, target gene of Wnt. Look at transcriptional level. Compared to IWP2 alone, cell cycle arrest still has some wnt surface expression and transcriptional level.
+Indicates cell division under normal condition dilutes Wnt3.
+
+Third Hypothesis: To test whether cell division propagates wnt3 from source cell to target cell membrane.
+
+4c: block wnt secretion for three days and then wash out. After washout, crypts are formed and Wnt is found in cell surface. In cell cycle inhibitors, fewer crypts are formed and wnt3 is contained within the paneth cell (producer cell).
+
+Therefore, the conclusion is that Wnt travels depends on cell division, not diffusion.
+
+

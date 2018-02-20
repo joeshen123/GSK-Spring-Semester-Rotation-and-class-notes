@@ -1,0 +1,35 @@
+= Figure 6 =
+
+* -[[6A]]: Purify tumors based on FACs (PECAM1 + and tdTomato +), TUMOR CELL, TUMOR VASCULATURE AND TOM- STROMA
+
+
+* -[[6b]]: Only TOM+PECAM1- have sphere initiating capacity
+
+
+* -[[6c-e]]: Only T+/P- express SHH Pathway genes and myogenic genes
+
+
+* [[Summary First Part]]: Able to seperate tumor cells (T+/P-) and tumor vascular cells (T+/p+) in tumors using PECAM and tomato labeling (FACS sorting)
+
+
+* -[[Hypothesis Second Part]]: Examination of T+/P- tumor cell gene expression.
+
+
+* -[[S6G]]: Compare to the double negative, T+/P- Tumors have enrichment in TFs in development.
+
+
+* -[[6F]]: Muscle Cell differentiation genes are enriched
+
+
+* -[[6G]]: head and neck muscle specification genes upstream of Mrf are highly expressed in T+/P- cells compared to other cell types
+
+
+* -[[6H-I]]: in E15.5, TbX1 is colocalized with ap2-Cre-labeled cell, but not MyoD-1. Suggesting Tbx1 precedds MyoD-1 expression. But there are some redundancy.
+
+
+* -[[Conclusion]]: Tumor cells express myogenic specification factors important for head and muscle development.
+
+
+
+
+
