@@ -171,7 +171,9 @@ Notch signal cut the receptor
 --------------------------------------------------------------------------------------------------------------
 Kathryn Paper Preview
 
-Wnt signaling overview: 1. Wnt proteins are lipid-modified by Porcupine(Prc).
+==Wnt signaling overview==
+
+1. Wnt proteins are lipid-modified by Porcupine(Prc).
 
 2. Most tissues Wnt signaling occurs in contacting cells.
 
@@ -186,21 +188,88 @@ Wnt signaling overview: 1. Wnt proteins are lipid-modified by Porcupine(Prc).
 beta cat, entering nucleus to activate gene expression.
 
 
-Figure 4 Details:
+==Figure 4==
 
-Hypothesis : To explore the kinetics of Wnt3 Surface expression
+[[Details]]
 
-4a: Use IWP-2 to block Wnt secretion (inhibit Porcupine) WGA+ Cell = Paneth Cell, HA = Wnt expression, After inhib ition, Wnt3 expression can only be observed in Paneth cell. Porcupine is required for the wnt trafficking. Staining Non- permeablized tissue further confirms cell surface Wnt3 is gone, half-life < 24 hrs.
+1. [[Hypothesis]] : To explore the kinetics of Wnt3 Surface expression
 
-Second Hypiothesis: Whether cell division will affect surface bound Wnt.
+ [[4a]]: Use IWP-2 to block Wnt secretion (inhibit Porcupine) WGA+ Cell = Paneth Cell, HA = Wnt expression, After inhib ition, Wnt3 expression can only be observed in Paneth cell. Porcupine is required for the wnt trafficking. Staining Non- permeablized tissue further confirms cell surface Wnt3 is gone, half-life < 24 hrs.
 
-4a(continued): Use inhibitors to induce cell cycle arrest.  Axin2, target gene of Wnt. Look at transcriptional level. Compared to IWP2 alone, cell cycle arrest still has some wnt surface expression and transcriptional level.
+2. [[Second Hypiothesis]]: Whether cell division will affect surface bound Wnt.
+
+[[4a(continued)]]: Use inhibitors to induce cell cycle arrest.  Axin2, target gene of Wnt. Look at transcriptional level. Compared to IWP2 alone, cell cycle arrest still has some wnt surface expression and transcriptional level.
 Indicates cell division under normal condition dilutes Wnt3.
 
-Third Hypothesis: To test whether cell division propagates wnt3 from source cell to target cell membrane.
+3. [[Third Hypothesis]]: To test whether cell division propagates wnt3 from source cell to target cell membrane.
 
-4c: block wnt secretion for three days and then wash out. After washout, crypts are formed and Wnt is found in cell surface. In cell cycle inhibitors, fewer crypts are formed and wnt3 is contained within the paneth cell (producer cell).
+[[4c]]: block wnt secretion for three days and then wash out. After washout, crypts are formed and Wnt is found in cell surface. In cell cycle inhibitors, fewer crypts are formed and wnt3 is contained within the paneth cell (producer cell).
+
 
 Therefore, the conclusion is that Wnt travels depends on cell division, not diffusion.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kathryn Lecture
+
+==Wnt and Fly development==
+
+large scale fly mutations ---- Wingless; wingless is required for the segmentation.
+
+Use Drosophila genetics to dissect wingless pathway
+
+arm and arm/zw3 phenotypes are similar: indicating zw3 is upstream of arm.
+
+hh and wg mutants have same phenitypes but different pathway.
+
+wg and hh two pathways regulating each other
+
+wg and hh regulate expression in neighboring cell
+
+wnt in involved in cancer in mice, development in fly.
+
+
+In fly, Wnt is studied in segmentation hierachy and wing disc.
+
+==Wnt in vertebrate development==
+
+Highly Regulative.
+
+Wnt3 is expressed early in primitive streak (posterior): where gastrulation initiates
+
+primitive develop opposite (wnt is inhibited in the other side)
+
+wnt3 turns off and wnt3a turns on. wnt3 anterior and mesoderm wnt3a posterior and mesoderm
+
+Axin inhibits downstream of Wnt
+
+beta cat downstream of Axin. Axin in the middle of Wnt pathway
+
+Wnt ligand exprees in posterior, low expression im anterior. Local expression of inhibitors in anterior.
+
+Dkk1 a wnt inhibitor (antagonist for wnt receptor)---- Model a global gradient high in Pos and low in ant
+
+palmitate is important for Wnt secretion and binding the the FZD receptor.
+
+Wnt and Stem cell
+Axin2 direct transcriptional target of Wnt signaling: used to look at wnt signaling activity
+
+Axin2 negative feedback loop , reform destruction complex to degrade beta cat.
+
+== APC ==
+
+* APC forms a destruction complex to inhibit (degrade) beta cat
+* Mutation in APC will cause the destruction of this complex, beta-cat is more stabilzed
+* In cancer, most of APC mutations are truncated and destroy the beta cat binding site
+
+== crypt and stem cell ==
+
+* stem cell is resided in crypt and each crypt develops multiple villus
+* LGR5 is the target gene of Wnt
+* protease Rnf43 and Znrf3 degrade FZD receptor
+* LGR5 and Rspo will inhibit Rnf43, beta-cat is stabilized
+
+== Non canonical Wnt signaling==
+* PCP pathway controls cytoskeleton rearragement ---- cell polarity
 
 
