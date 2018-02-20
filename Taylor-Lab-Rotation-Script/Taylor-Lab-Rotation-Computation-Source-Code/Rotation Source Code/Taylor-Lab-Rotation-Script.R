@@ -1354,3 +1354,6 @@ NTAI_HRD_Correlation_Plot + stat_cor(method = 'spearman', label.x = 30, label.y 
 ggsave('~/shenz/script/R_plot/BRCA_Genomic_Scar/correlation_plot/NtAI and HRD-LOH score correlation plot.tiff', width = 8, height = 5)
 
 print('Finish NtAI and HRD-LOH correlation plot')
+
+
+
