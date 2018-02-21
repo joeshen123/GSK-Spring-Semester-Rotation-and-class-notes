@@ -1,4 +1,7 @@
-Lec 4 Gastrulation of mamallian
+                      # **Devlopmental Biology Section**
+
+
+## Lec 4 Gastrulation of mamallian
 
 Fgf4 partial expression may prestage the fate of Epiblast cell before the other expression markers
 
@@ -31,7 +34,7 @@ ESC can not differenbtiate to germcell without going through EpiLCs
 NANOG high in FGF4 mutant (bag of ES cells)
 
 ---------------------------------------------------------------------------------------------------------
-GASTRULATION
+## GASTRULATION
 
 Important the survival of organism.
 
@@ -46,7 +49,7 @@ Nodal and Wnt inhibitors express in anterior
 nodal, wnt and BMP4 are important for primitive streak formation.
 
 ---------------------------------------------------------------------------
-Gastrulation (continued)
+## Gastrulation (continued)
 
 Brachyury marker of primitive streak
 
@@ -70,7 +73,7 @@ Tsix express on X that escapes inactivation(repress Xist)
 
 ------------------------------------------------------------------------------------------------------------------
 
-Lecture on TGF Beta
+## Lecture on TGF Beta
 
 TGF Beta tumor suppressor or pro-metastatic?
 
@@ -110,7 +113,7 @@ TGF Beta cause cancer cells to go to quiescence, to evade immune cell attack.
 metastasis is the confrontation of regenerative cancer stem cell and immune system (innate immune system)
 
 -------------------------------------------------------------------------------------------------------------------------------------
-Review Session
+## Review Session
 
 Mosaic: fate is determined. cell is determined to be this fate
 
@@ -130,7 +133,7 @@ direct ES cells to other fates
 all rossetes revolving together to cause embryo movement
 
 -------------------------------------------------------------------------------
-HH Signaling
+## HH Signaling
 
 SHH regulates axon guidance in GLI independent manner
 
@@ -150,7 +153,7 @@ GLI2 and GLI3 requirements are different in different tissues(limb structure vs 
 
 ------------------------------------------------------------------------------------------------
 
-Notch Signaling
+## Notch Signaling
 
 Most mutants are found in sex link, because there is only one copy. The phenotype is more noticeable.
 
