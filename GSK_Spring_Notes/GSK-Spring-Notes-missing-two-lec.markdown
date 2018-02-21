@@ -210,7 +210,7 @@ Therefore, the conclusion is that Wnt travels depends on cell division, not diff
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Kathryn Lecture
+## Kathryn Lecture number one
 
 **Wnt and Fly development**
 
@@ -272,5 +272,37 @@ Axin2 negative feedback loop , reform destruction complex to degrade beta cat.
 
 **Non canonical Wnt signaling**
 * PCP pathway controls cytoskeleton rearragement ---- cell polarity
+
+----------------------------------------------------------------------------------------------------------------------
+## Kathryn Lecture (mTOR and Hippo pathway growth control)
+
+* ***Introduction***
+
+* Pten is a phosphatase and PI3K is a kinase
+
+* In tumor Pten is loss of function and PI3K is gain of function
+
+* PTEN is dominant
+
+* Hippo pathway activate cause overgrowth
+
+* different PH domains recognize pip2 and pip3. PTEN revert PIP3 back to PIP2. Everything happens in 
+cell membrane but depends on cell concentrations
+
+* Kit (stem cell factor) can act through PI3K pathway
+
+* ***PI3K pathway controls cell size***
+
+  - chico (IRS) mutants are smaller
+  - chico is cell autonomous(determined by genotypes)
+  - Pten mutant clones are larger
+  - Inr and pten double overexpression is normal (pten is downstream of Inr)
+  - pten and Akt double mutants are viable. 
+  - TSC1 downstream of InR and Akt but synergestically with Pten (non-linear)
+
+* ***Pten and Brain Development***
+
+  - Pten conditional KO brain cells are bigger(cell number does not change)
+  - 
 
 
