@@ -276,7 +276,7 @@ Axin2 negative feedback loop , reform destruction complex to degrade beta cat.
 ----------------------------------------------------------------------------------------------------------------------
 ## Kathryn Lecture (mTOR and Hippo pathway growth control)
 
-* ***Introduction***
+***Introduction***
 
 * Pten is a phosphatase and PI3K is a kinase
 
@@ -291,18 +291,40 @@ cell membrane but depends on cell concentrations
 
 * Kit (stem cell factor) can act through PI3K pathway
 
-* ***PI3K pathway controls cell size***
+***PI3K pathway controls cell size***
 
-  - chico (IRS) mutants are smaller
-  - chico is cell autonomous(determined by genotypes)
-  - Pten mutant clones are larger
-  - Inr and pten double overexpression is normal (pten is downstream of Inr)
-  - pten and Akt double mutants are viable. 
-  - TSC1 downstream of InR and Akt but synergestically with Pten (non-linear)
+- chico (IRS) mutants are smaller
+- chico is cell autonomous(determined by genotypes)
+- Pten mutant clones are larger
+- Inr and pten double overexpression is normal (pten is downstream of Inr)
+- pten and Akt double mutants are viable. 
+- TSC1 downstream of InR and Akt but synergestically with Pten (non-linear)
 
-* ***Pten and Brain Development***
+***Pten and Brain Development***
 
-  - Pten conditional KO brain cells are bigger(cell number does not change)
-  - 
+- Pten conditional KO brain cells are bigger(cell number does not change)
 
+***PIP3 akt Independent function***
+
+- pip3 and chemotaxisis
+- pten -/- move less than wt cell, although in a correct directon
+- pten -/- has multiple protrusions, confused where to go.
+- pten is highly associated with matestasis also
+
+***Hippo Pathway***
+
+- hippo mutant fat cells. (Indicates another growth regulator)
+- Overexpress hippo small wing
+- hippo is not involved in PI3K pathway
+- wts is downstream of hippo
+- loss of yorkie small eye, overexpression yorkie large eyes
+- Activation of Hippo pathway inhibits Yki (inhibit cell death, promote cell growth and regulate cell cycle)
+- Overexpression of YAP1 induces liver growth
+- Force (Mechanical state) regulate YAP localization
+
+***Cell Competition***
+
+- Minute mutants slow growing but normal wing size
+- minute mitotic clones never cross the line (can not cross the anterior and posterior lines)
+- A single mitotic recombination cell (Minute +) has advantage and takes over half of the wing
 
