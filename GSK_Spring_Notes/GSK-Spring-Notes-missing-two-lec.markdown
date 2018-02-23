@@ -331,3 +331,92 @@ cell membrane but depends on cell concentrations
 - minute mitotic clones never cross the line (can not cross the anterior and posterior lines)
 - A single mitotic recombination cell (Minute +) has advantage and takes over half of the wing
 
+
+----------------------------------------------------------------------------------------------------------------------
+
+## Neal Rosen Paper Preview 
+
+* In mammal, PI3K control /prevent insulin, glucose goes up. ------ Pathway has function, KO does not give function
+
+* Robust meaning: stable in the face of perturbation. KO signaling pathway compensates through feedback (it is robust).
+
+* Linear signaling can not evolve, signaling is non-linear
+
+* Think vs omics
+
+* PI3K activates usually via RTK(igfr). mTORC2 phosphorylstrd s473.
+
+* signaling is a topological change. They adapt, not singular
+
+* Think rigorously, not just depend on screening and CRISPRS
+
+* pten tends to be second hit/ PI3K fail miserably
+
+* PI3K works best with inhibitors of drivers.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+## Mary Baily lecture on RTK pathway
+
+***RTK INTRODUCTION***
+
+* evolutionary conserved
+
+* 20 families of RTK, they have intracellular tyrosine kinase (single transmembrane)
+
+* ligand can form the dimer interactions
+
+* RTK dimerization, comformational change(expose tyrosine), relieves auto-inhibition,  trans-autophosphorylation.
+
+* recruit lipid (close), proteins get phosphorylated.
+
+* depending on the context, different pathways activated
+
+* SOS = GEF, exchange GDP for GTP, PH domain binds pip2/pip3.
+
+* For signaling, scaffold(KSR) can bring proteins integrate together (good)
+
+* RAF is a serine theorinine kinase. Sequential activation fully activates the cell.
+
+* ERK is the major target of MEK, but we know it has more targets.
+
+***Genetic approaches to dissect RTK pathways***
+
+* Drosophila Eye as a model system
+
+* Eye imaginal disc, anterior undifferentiated layer, posterior more differentiated
+
+* EMS usually point mutations, GC to AT
+
+* mosaic a population of mutatant cells nearby wildtype cells. FRT targets of FLP recombinase
+
+* KO will not tell me which cells are responsible.
+
+* enhancer screen is not homo, het look at reduction
+
+* epistasis : The requirement is that single mutant has to have opposite phenotypes
+
+* epistasis tells nothing about protein interactions, only the part in the pathway
+
+
+***Generation of RTK pathway Specificity***
+
+* different cells have different components after RTK
+
+* different kinetics of signaling generate different results
+
+* choose different scaffolds
+
+* feedback loop regulation
+
+* different localization of kinases
+
+* site of signaling
+
+* multiple components of each node
+
+* crosstalk (next lecture)
+
+* Conclusion: different strategies to control and regulate specificity
+
+
