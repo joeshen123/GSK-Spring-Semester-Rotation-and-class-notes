@@ -420,6 +420,9 @@ cell membrane but depends on cell concentrations
 * Conclusion: different strategies to control and regulate specificity
 
 ----------------------------------------------------------------------------------------
+
+## Michale Overholtzer's Lecture (cell adhesion)
+
 ***Gap Junction***
 
 * connexin channels allow soluble molecules pass through
