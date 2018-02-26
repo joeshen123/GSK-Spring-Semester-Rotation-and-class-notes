@@ -419,4 +419,41 @@ cell membrane but depends on cell concentrations
 
 * Conclusion: different strategies to control and regulate specificity
 
+----------------------------------------------------------------------------------------
+***Gap Junction***
 
+* connexin channels allow soluble molecules pass through
+
+* Gap junctions are very heterogeneous
+
+* connexin 43 is the most prosmicuos connexin genes. Heterogeneous connexin and homogeneous connexin have different property (e.g. size, diameter)
+
+* If cell's connexin does not have partner, it will spit to the environment
+
+* Ferroptosis is the only form of cell death that can spread. And it is independent of gap junctions.
+
+***Desmasomes***
+
+* link cell-cell contacts and IF.
+
+* IF does not have polarity. Actin has polarity, therefore it is more dynamic (turnover faster).
+
+* desmosomes extracellular cadherin complex needs calcium. Cell-Cell contacts loss after calcium depletion (Use for cell junction formation synchronization).
+
+***adherens junction***
+
+* cell adhesion - actin  actin has polarity
+
+* calcium makes cadherins rigid and make proper contacts.
+
+* cadherin binding is homotypic, determined by extracellular and N terminal part
+
+* E-cad is upstream of desmosomes and GAP junctions.
+
+* E-cad first expressed in dev and is required for compaction in 8 cell stage.
+
+* beta catenin of wnt and cell adhesion is from different pool
+
+***Tight junctions***
+
+* tight juction prevents passive diffusion
