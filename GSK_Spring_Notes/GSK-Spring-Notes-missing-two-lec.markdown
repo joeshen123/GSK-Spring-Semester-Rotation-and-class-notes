@@ -494,4 +494,57 @@ cell membrane but depends on cell concentrations
 
 4. wide range of reporter tools
 
+-----------------------------------------------------------------------------------------------------
+## Richard White's Lecture (Dev Bio and Cancer Bio intersection)
 
+***Normal Neural Crest Biology***
+
+1. Vertebrate specific tissue.
+   - some thinks fourth germ layer
+
+2. Neural crest cells similar to embryonic stem cells. Derive to different cell types.
+   - Not every cell create equal
+
+3. Neural crest development
+   1. disrete structures, forming its own layer
+   2. induction ------- specification (require combinatorial effects of different pathways)
+   3. Neural crest cells derivatives are different in different anatomic structures
+   4. mesoderm is required for NC development. Similar to cancer stem cell, NC cells can not survive 
+without its proper microenvironment.
+
+   5. BMP is example of antagonist. BMP turns on antagonist expression. relays system modulate BMP expression
+    
+   6. Wnt1 is required for NC induction. Others are more complicated.
+
+   7. RA induces AP patterning. 
+
+   8. Notch blocks differentiation. Determine the fate to become NC or Brain tissues.
+
+   9. NC specification and development are regulated by the network of signaling of pathways.
+
+   10. SNAI1/2 repressor of E-cad transcription
+
+   11. sox10 TF turns on pigmentation genes
+
+***Neural crest and Cancer***
+
+1. NC genes alterations in melanoma
+
+2. NC genes common in human and zebrafish melanocytes
+
+3. melanocytes can change differentiation from NC to melanocytes based on will
+
+4. differentiation genes are associated with worse prognosis
+
+5. melanocytes use endothelin signaling to diffrentiate
+
+6. KO endothelin block melanocytes growth
+
+7. EMT and melanocytes metastasis
+   1. intrinsic of melanocytes for metastasize (slug)
+   2. EMT required for metastasis
+   3. MITF lineage genes of melanocytes
+
+8. devlopmental genes are epigenetically controlled.
+   1. important genes are epigenetic plasticity genes.
+   2. connections between development and cancer(e.g. melanocytes) are not somatic, but more epigenetically regulated. 
