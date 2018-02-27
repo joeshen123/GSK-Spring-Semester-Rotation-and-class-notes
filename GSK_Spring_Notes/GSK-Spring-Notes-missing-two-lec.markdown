@@ -460,3 +460,38 @@ cell membrane but depends on cell concentrations
 ***Tight junctions***
 
 * tight juction prevents passive diffusion
+
+-------------------------------------------------------------------------------------------------------------
+## Mary Baily's lecture (crosstalk in signaling pathway)
+
+***Signaling pathways and specificity***
+
+1. One protein works in multiple pathways:
+  * beta catenin works in both adhesion junction and wnt signaling pathway. Two different beta catenin pools. 
+
+2. feed forward on intrinsic factors of cell fate:
+   * cluster 1 wnt turns on twist activation
+     cluster 2 needs direct wnt and twist activation
+
+3. Two signaling pathway utilizes same intracellular components
+
+4. Eve expression requires 4 signaling
+
+5. competition in signaling pathways
+   * wingless pathway inhibit Ras/MAPK pathway through canoe
+
+6. Look at the pathway in a perspective of network not a linear direction.
+
+7. We built the pathway based on extreme players. But we need to pay attention to the middle grounds.
+
+***Future of signaling crosstalk***
+
+1. control spatial and temporal variations
+
+2. Better tools to measure patheway activations
+
+3. Better tool to control the flow through a pathway
+
+4. wide range of reporter tools
+
+
