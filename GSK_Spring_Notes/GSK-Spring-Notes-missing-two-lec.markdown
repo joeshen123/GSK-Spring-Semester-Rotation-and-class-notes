@@ -548,3 +548,35 @@ without its proper microenvironment.
 8. devlopmental genes are epigenetically controlled.
    1. important genes are epigenetic plasticity genes.
    2. connections between development and cancer(e.g. melanocytes) are not somatic, but more epigenetically regulated. 
+
+## ZhiRong Bao's Lecture (Cell Polarity)
+
+***Worm, Biology and Cell Polarity***
+
+* Cell lineage although fixed,  still require cell cell interaction and signaling pathways
+
+* cell lineage ------ organisms need difference(assymetry)
+
+* Par proteins localize to different parts of the cell, leading to assymetric division
+
+* conceptual scheme of cell polarity: A and B mutually repress each other + each A and B has positive feedback loop.
+
+* Genetic screen to look for factors that control worm assymetric cell division.
+
+***Left-Right Asymmetry***
+
+* Actin regulates the break of left-right symmetry
+
+* In one cell asymmetry division, external cue (sperm enter) determine the Inbalance. In left-right, no external cue. Left right, it is already predetermined. Left right assymetry may be 
+rooted in actin chrality.
+
+***lineage differentiation***
+
+* map lineage using compter image analysis
+
+* tag TF and see the lineage
+
+* use mutant /RNAi and tag Tissue specific markers and observe linage fate decisions. (e.g. Wnt homeotic transformation)
+
+* introduce mutation in different cell division (via Crispr) and track lineage.
+
