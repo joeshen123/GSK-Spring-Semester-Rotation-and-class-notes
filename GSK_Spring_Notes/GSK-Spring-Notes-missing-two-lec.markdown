@@ -33,7 +33,7 @@ ESC can not differenbtiate to germcell without going through EpiLCs
 
 NANOG high in FGF4 mutant (bag of ES cells)
 
----------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 ## GASTRULATION
 
 Important the survival of organism.
@@ -579,4 +579,38 @@ rooted in actin chrality.
 * use mutant /RNAi and tag Tissue specific markers and observe linage fate decisions. (e.g. Wnt homeotic transformation)
 
 * introduce mutation in different cell division (via Crispr) and track lineage.
+
+## Vivian Tabar's lecture (ES cell derivation and application)
+
+***requirements for regenerative medicine***
+  
+  1. Understand the disease process
+     - PD loss of dopamine neurons
+
+     - Suitability of Cell therapies
+
+     -  HPSC : can expand, sort, select, immune match better than fetal cells.
+  
+  2. Generate Suitable Cell Types
+
+  3. Test/confirm In Vitro function
+
+  4. Confirm Using In Vivo Model
+
+     - Rat brain lesion
+
+  5. Delivery of cells
+
+***Go from basic research to translation***
+
+  1. Dosing is a huge problem 
+
+  2. heterogenity: not all ES cells will become Dopamine Neuron
+
+  3. Risk of tumorigenesis from ES cells
+ -----------------------------------------------------------------------------------------------------
+
+ ## DanWei HuangFu's Lecture
+
+
 
