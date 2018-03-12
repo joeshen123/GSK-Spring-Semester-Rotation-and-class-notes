@@ -549,6 +549,7 @@ without its proper microenvironment.
    1. important genes are epigenetic plasticity genes.
    2. connections between development and cancer(e.g. melanocytes) are not somatic, but more epigenetically regulated. 
 
+
 ## ZhiRong Bao's Lecture (Cell Polarity)
 
 ***Worm, Biology and Cell Polarity***
@@ -608,9 +609,79 @@ rooted in actin chrality.
   2. heterogenity: not all ES cells will become Dopamine Neuron
 
   3. Risk of tumorigenesis from ES cells
- -----------------------------------------------------------------------------------------------------
 
- ## DanWei HuangFu's Lecture
+-----------------------------------------------------------------------------------------------------
+
+## DanWei HuangFu's Lecture
 
 
+# Michale Kharas lecture
 
+## 1. What are Hscs?
+
+- HSC lineage makeup innate and adpative immune systems
+
+- Very rare in blood cell
+
+- Rapid replacement
+
+## 2. History of HSCs
+
+- single cell concept: bloods originate from a single cell
+
+- If treat with radiation and toxin, the whole development of blood system is gone.            
+
+- Flow Cytometry can directly look and differentiates sub cell types in blood system
+
+* cell sorting based on surface markers
+
+## 3. Blood Ontogeny Development
+
+- During blood system development, cells change their identities.
+
+- Endothelial cell -- HSC -- Reside in BM
+
+## 3. Bone Marrow
+
+- Hypoxic environment of BM
+
+- Various cell types in BM:
+
+   1. Two niches: Osteoblastic cell + Perivascular niche
+
+   2. CXCL12-abundant cells, HSCs, Adipocytes (negative regulate HSCs), Macrophages etc.
+
+- Nervous system regulates blood system:
+ 
+  - HSC migration out of niche (blood system) regulated by circadium rhythmn
+
+- Alteration HSC niche: immature has phenotypes, lost in mature cell types.
+ 
+- G-CSF leads to mobilization, migration and expansion of HSCs. (Used widely in
+  the clinic for  BM transplantation)
+
+## Isolation of HSCs
+
+- LSK : lineage low, c-kit +, Sca +
+
+- HSCs lineage is complex, tends to go to different lineages
+
+- Look through the lens of transplantation, so it is different from natural
+  (non-stress) condition
+
+- Utilize single cell seqs and omics to look at HSCs vs non-HSCs.
+
+## Hematopoiesis
+
+- asymmetric division: one retain and the other goes downstream
+
+- Maintain Stemness: mostly they are quiescent. Only entering cell cycle when
+  they are in stress.
+
+* high level of AKT inhibits HSCs and leads to HSC depletion
+
+## Hematopoeisis Disorder
+
+- Aged mouse has more cycling HSCs but less efficient in transplation.
+
+- clonal hematopoiesis in aged people

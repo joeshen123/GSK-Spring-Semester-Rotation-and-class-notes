@@ -1,8 +1,0 @@
-type_of_cancer: gbm
-cancer_study_identifier: gbm_tcga_pub2013
-name: Glioblastoma (TCGA, Cell 2013)
-short_name: GBM (TCGA 2013)
-description: <a href="http://cancergenome.nih.gov/">The Cancer Genome Atlas (TCGA)</a> Glioblastoma project.<br> <a href="http://tcga-data.nci.nih.gov/tcga/">Raw data via the TCGA Data Portal</a>.
-add_global_case_list: true
-pmid: 24120142
-citation: TCGA, Cell 2013
