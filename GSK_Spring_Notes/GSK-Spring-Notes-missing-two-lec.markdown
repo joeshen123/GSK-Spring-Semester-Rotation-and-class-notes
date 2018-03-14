@@ -685,3 +685,41 @@ rooted in actin chrality.
 - Aged mouse has more cycling HSCs but less efficient in transplation.
 
 - clonal hematopoiesis in aged people
+
+# Angiogenesis Lecture
+
+* In adult organism, most blood vessel cells are quiescent not post-mitotic (They can respond to angiogenic signals)
+
+* VEGF and Angiopoietin pathways are restricted to vascular system
+
+* VEGF-A is induced by hypoixa, the output is diverse
+
+* Different VEGF outputs are regulated by different downstream signaling pathways
+
+* VEGF can act autocrine as a suriviving signals for EC.
+
+* Notch signalings play a key role in differentiate arteriole and venus
+
+## Sprouting Angiogenesis
+
+* Stalk cells proliferate and divide; tip cell is single cell and does not divide
+
+* Lateral Inhibition: Notch on cells inhibit Notch signaling in surrounding cells
+
+* Angioblasts: earliest progenitors for ECs in embryo, flk-1 is the earliest marker of angioblasts.
+
+* Flk-1 + Angioblasts migrate from PS and are responsible for extra/intra embryonic vasculature in embryo.
+
+* Find tissue-resident progenitor EC cells. 
+
+* AGM (Intra Embryonic region) gives rise to hematopoietic systerm
+
+* ECs can transdifferentiates into HSCs and give rise to hematopoietic systerm in liver. (hemogenic endothelium)
+
+* c-kit early hematopoeitic cell markers
+
+* EC undergoes EHT process, becomes HSPCs, circulate, go to liver, expand and later to the BM.
+
+* There are flexibility in the linegae differentitation during development. (e.g. EHT (Endotheilial-Hematopoeitic-Transitions)
+
+* Understandings of developmental process can also contribute to the understandings of pathogenesis
